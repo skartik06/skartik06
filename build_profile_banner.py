@@ -323,7 +323,7 @@ def generate_banner(is_dark=True):
         ("Grid.LinkedIn", "in/kartik-sharma-4b4b75333"),
         ("Grid.Instagram", "@krrish.diez10"),
         ("Grid.GitHub", "github.com/skartik06"),
-        ("Grid.Portfolio", "skartik06/kartik-portfolio"),
+        ("Grid.Portfolio", "skarchive.netlify.app"),
     ]
 
     import html
